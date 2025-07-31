@@ -1,4 +1,4 @@
-# 🚀 Desafios de Estudos
+# 🚀 Java Study Challenges
 
 Bem-vindo(a) ao repositório de **Desafios*! Aqui você encontrará alguns desafios resolvidos e diversos exercícios para praticar e evoluir suas habilidades em programação de forma divertida e progressiva.  
 
