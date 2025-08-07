@@ -47,5 +47,6 @@ public class ContaBancariaSimples {
                 System.out.println("Opção invalida\n");
             }
         }
+        sc.close();
     }
 }

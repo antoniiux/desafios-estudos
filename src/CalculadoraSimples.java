@@ -60,5 +60,6 @@ public class CalculadoraSimples {
                 System.out.println("Ops... Opção inválida!\n");
             }
         }
+        sc.close();
     }
 }
